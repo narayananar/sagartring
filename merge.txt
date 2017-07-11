@@ -1,8 +1,1 @@
-<<<<<<< HEAD
-for(i=0,i<10,i++)
-{}
-
-(edited by nihanth)
-=======
-This is roop merge.
->>>>>>> roop
+uthej edit

@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 for(i=0,i<5,i++)
 {}
+=======
+This is roop merge.
+>>>>>>> roop
